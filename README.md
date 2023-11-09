@@ -8,7 +8,7 @@
 
 ![Oqtane](https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true "Oqtane")
 
-Test
+Test2
 
 Oqtane is an open source CMS and Application Framework that provides advanced functionality for developing web, mobile, and desktop applications on .NET. It leverages Blazor to compose a fully dynamic digital experience which can be hosted on Blazor Server, Blazor WebAssembly, or Blazor Hybrid (via .NET MAUI).
 
